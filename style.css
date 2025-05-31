@@ -1,3 +1,39 @@
-div{
-    color: aquamarine;
+
+.Happy{
+    font-size: 80px;
+    color: antiquewhite;
+    padding-top: 100px;
+    
+}
+.New{
+    font-size: 120px;
+    font-weight: 100px
+    ;
+    color: antiquewhite;
+    padding-bottom: 200px;
+} 
+.first-banner{
+    background-image: url(images/Banner\ Image.png);
+    background-position :cover;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    
+    margin: 55px 55px 100px 100px;
+
+}
+.second{
+    text-align: center;
+}
+.off{
+    font-size: 65px;
+    font-weight: 200;
+    color: red;
+}
+.holiday-deals{
+    color: red;
+}
+.category{
+    font-weight: 500px;
 }
