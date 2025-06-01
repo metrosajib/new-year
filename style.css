@@ -37,3 +37,218 @@
 .category{
     font-weight: 500px;
 }
+.third-sec{
+    display: flex;
+    margin-left: 109px;
+    background-image: url(images/Vectorrr.png);
+    background-repeat: no-repeat;
+}
+.left{
+    width:50%;
+}
+.right{
+    width:50%;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.midnight{
+    font-size: 50px;
+    font-weight: 150px;
+    color: beige;
+    padding-left: 69px;
+    padding-top: 90px;
+}
+.midnight2{
+    color: beige;
+    
+    padding-left: 69px;
+}
+.join{
+    padding-left: 69px;
+    font-size: 45px;
+    color: antiquewhite;
+}
+.section4{
+    text-align: center;
+    
+    padding: 35px;
+    margin: 100px;
+    border-radius: 15px;
+     /* Linear gradient from top (light pink) to bottom (white) */
+    background: linear-gradient(to bottom, #FFD1DC, #FFFFFF); /* #FFD1DC is a light pink, #FFFFFF is white */
+    /* You might want to add padding or min-height to see the gradient clearly */
+    padding: 50px 0; /* Example padding */
+    min-height: 200px; /* Example minimum height */
+    
+
+}
+.join2{
+    color:white;
+    background-color: red;
+    border-radius: 10px;
+    border: none;
+    width: 105px;
+    
+}
+.sp{
+    color: red;
+    width: 45px;
+    height: 55px;
+}
+.sec5{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 139px;
+    margin-right: 139px;
+    margin-top: 55px;
+}
+.left-div{
+    margin-left: 25px;
+    margin-right: 45px;
+}
+.right-div{
+    margin-left: 55px;
+    margin-right: 45px;
+}
+.rounded-red-border {
+    border: 14px solid red; /* Adjust '3px' for border thickness */
+    border-radius: 50%;   /* Makes the image perfectly round if it's square, or follows its existing roundness */
+    /* If your image is not perfectly square, you might need object-fit: cover; to prevent distortion */
+    /* object-fit: cover; */
+    /* width: 150px; */ /* Example: set a fixed width and height for a perfect circle */
+    /* height: 150px; */
+    padding: 25px;
+}
+.nbo{
+    color: red;
+    font-size: 25px;
+}
+.cm{
+    font-size: 55px;
+    font-weight: 100px
+    ;
+}
+.t4{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+.g96{
+    margin: 35px;
+}
+.func1{
+    text-align: center;
+}
+.holiday{
+    color: red;
+}
+.func2{
+font-size: 25px;
+}
+.func3{
+font-size: 55px;
+}
+.complex{
+    
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    max-width: 90%;
+    margin-left: 25px;
+    
+    
+}
+.complex2{
+    background-image: url(images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    display: flex;
+    padding-top: 400px;
+    margin-left: 85px;
+    margin-top: -234px;
+}
+.box{
+    width: 50%;
+    
+}
+.bag{
+    margin-bottom: 0;
+    
+}
+
+.dd{
+    
+    background-image: url(images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: cover
+    ;
+    width: 100%;
+    margin-left: 350px;
+    
+}
+.dd3{
+    padding-right: 56px;
+    margin-left: -135px;
+}
+.styl{
+    display: flex;
+}
+.last{
+    margin-left: 75px;
+}
+.g61{
+    text-align: center;
+}
+.pls{
+    margin-left: -10px;
+    color: beige;
+    background-color: red;
+    border: none;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size: 25px;
+}
+.pl{
+    margin-right: 0;
+    border: none;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    font-size: 25px;
+}
+.subs{
+    background-color: lightpink;
+    margin-right: 45px;
+    margin-left: 45px;
+    border-radius: 10px;
+    padding-bottom: 45px;
+}
+.florida{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 45px;
+    margin-right: 45px;
+}
+.flori{
+    margin-left: 45px;
+    margin-right: 45px;
+    color: white;
+    background-color: black;
+}
+.c{
+    margin: 30px;
+    padding-left: 25px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+.ll2{
+    display: flex;
+    justify-content: space-between;
+}
+hr{
+    color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: solid .5px;
+}
